@@ -10,19 +10,21 @@ Meu portfólio pessoal de Data Science
 # Flavio Salazar
 <sub>*Lead Data Scientist* at Space Operations Center</sub>
 
-As a experienced Data Scientist and Air Force pilot I combine analytical skills, ability to work in team environments, and attention to details. Having spend the last years applying Machine Learning to Brazilian Air Force real problems, I developed a critical thinking and problem-solving skills.
+My text here
 
-My credentials include a Master's in Space Science and Technology from the Aeronautics Institute of Technology (ITA), an institution of higher education and advanced research rated as one of the top and most prestigious engineering schools in Brazil, and a MBA in Project and Process Management from the University of Air Force (UNIFA).
+<!-- As a experienced Data Scientist and Air Force pilot I combine analytical skills, ability to work in team environments, and attention to details. Having spend the last years applying Machine Learning to Brazilian Air Force real problems, I developed a critical thinking and problem-solving skills.
 
-**Background in:** Python, Machine Learning, Space Operations and Mathematical Optimisation.
+My credentials include a Master's in Space Science and Technology from the Aeronautics Institute of Technology (ITA), an institution of higher education and advanced research rated as one of the top and most prestigious engineering schools in Brazil, and a MBA in Project and Process Management from the University of Air Force (UNIFA). -->
+
+**Background in:** Python, Machine Learning, Deep Learning
 
 **Links:**
-* [Blog](http://sigmoidal.ai)
-* [LinkedIn](https://www.linkedin.com/in/carlosfab)
+<!-- * [Blog](http://sigmoidal.ai) -->
+* [LinkedIn]([https://www.linkedin.com/in/carlosfab](https://www.linkedin.com/in/flavio-salazar-57994b187/))
 * [Medium](https://www.medium.com)
 
 
-## Projetos:
+<!-- ## Projetos:
 Veja os tutoriais publicados do Sigmoidal:
 
 * **Como usar o Histograma para Data Science:** https://bit.ly/2L2cMwy
@@ -31,7 +33,7 @@ Veja os tutoriais publicados do Sigmoidal:
 * **Como Tratar Dados Ausentes com Pandas:** https://bit.ly/31KWSMN
 * **XGBoost: aprenda este algoritmo de Machine Learning em Python:** https://bit.ly/2UbRhws
 * **Como criar uma Wordcloud em Python:** https://bit.ly/2OxsphM
-* **Como lidar com dados desbalanceados:** https://bit.ly/2ZlaNsV
+* **Como lidar com dados desbalanceados:** https://bit.ly/2ZlaNsV -->
 
 ---
 
