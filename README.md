@@ -20,7 +20,7 @@ My credentials include a Master's in Space Science and Technology from the Aeron
 
 **Links:**
 <!-- * [Blog](http://sigmoidal.ai) -->
-* [LinkedIn]([https://www.linkedin.com/in/carlosfab](https://www.linkedin.com/in/flavio-salazar-57994b187/))
+* [LinkedIn](https://www.linkedin.com/in/flavio-salazar-57994b187/)
 * [Medium](https://www.medium.com)
 
 
