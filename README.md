@@ -35,6 +35,10 @@ Veja os tutoriais publicados do Sigmoidal:
 * **Como criar uma Wordcloud em Python:** https://bit.ly/2OxsphM
 * **Como lidar com dados desbalanceados:** https://bit.ly/2ZlaNsV -->
 
+Projetos:
+
+Análise resumidos do Airbnb da cidade de Cape Town: https://github.com/SalazarF92/Airbnb_analysis/
+
 ---
 
 
